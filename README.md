@@ -1,3 +1,6 @@
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 # 日本人向けカロリーモデルシミュレーター
 
 このプロジェクトは、日本人の平均的な体格と生活習慣を考慮したカロリー消費と体重変化のシミュレーションモデルを提供します。基礎代謝量（BMR）、総消費エネルギー量（TDEE）、歩数、運動強度などを考慮し、より現実的なシミュレーションを可能にしています。
